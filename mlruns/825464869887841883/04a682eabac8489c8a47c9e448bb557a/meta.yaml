@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Work/python/oject dectection lab/mlruns/825464869887841883/04a682eabac8489c8a47c9e448bb557a/artifacts
+end_time: 1767532518943
+entry_point_name: ''
+experiment_id: '825464869887841883'
+lifecycle_stage: active
+run_id: 04a682eabac8489c8a47c9e448bb557a
+run_name: train_mobilenetv2_ssd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767532470212
+status: 3
+tags: []
+user_id: ASUS
